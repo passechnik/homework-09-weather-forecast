@@ -1,6 +1,4 @@
-# homework-09-weather-fortcast
-
-Звертати хедер і першу секцію макету Productly використовуючи знання цієї теми. 
+# homework-09-weather-forecast
 
 Екстра:
 
