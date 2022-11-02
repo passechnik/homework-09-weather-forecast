@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    min-height: 100%;
+    color: #fff;
+    background-color: #3399CC;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    max-width: 1170px;
+}
+li {
+    display: inline-block;
+}
+.cities {
+    padding: 0;
+    font-size: 0;
+    border: 2px solid #fff;
+}
+.cities li {
+    display: inline-block;
+    font-size: 22px;
+    line-height: 22px;
+    border: 2px solid #fff;
+    padding: 26px;
+}
+.lisbon {
+    width: 50%;
+}
+.paris {
+    width: 25%;
+}
+.belgrade {
+    width: 25%;
+}
+.venice {
+    width: 25%;
+}
+.tel-avive {
+    width: 25%;
+}
+.cair {
+    width: 25%;
+}
+.new-york {
+    width: 25%;
+}
+.new-delhi {
+    width: 25%;
+}
+.san-francisco {
+    width: 50%;
+}
+.tokyo {
+    width: 25%;
+}
+.sydney {
+    width: 100%;
+}
